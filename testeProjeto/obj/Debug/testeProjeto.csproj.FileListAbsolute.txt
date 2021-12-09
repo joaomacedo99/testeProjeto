@@ -1,0 +1,11 @@
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\bin\Debug\testeProjeto.exe.config
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\bin\Debug\testeProjeto.exe
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\bin\Debug\testeProjeto.pdb
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\obj\Debug\testeProjeto.csproj.AssemblyReference.cache
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\obj\Debug\testeProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\obj\Debug\testeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\obj\Debug\testeProjeto.csproj.CopyComplete
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\obj\Debug\testeProjeto.exe
+C:\Users\João Macedo\Desktop\testeProjeto-master\testeProjeto\obj\Debug\testeProjeto.pdb
